@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="recom">Ваша игра на сегодня:</string>
+    <string name="b_text">Выбор игры</string>
+    <string-array name="games">
+        <item>Darkest Dangeon</item>
+        <item>Heroes of Might and Magic</item>
+        <item>The Elder Scrolls IV</item>
+        <item>Fortnite</item>
+        <item>Risen</item>
+        <item>League of Legends</item>
+    </string-array>
+</resources>
